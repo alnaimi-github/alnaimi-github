@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-
+<a href="https://app.daily.dev/alnuaimi"><img src="https://api.daily.dev/devcards/v2/yBcAKveFvNga7Qp0rmePx.png?type=default&r=ql1" width="356" alt="Abdulwasia Alnuaimi's Dev Card"/></a>
 <!---
 alnaimi-github/alnaimi-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
