@@ -37,8 +37,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
+<div align="center">
     <img src="https://img.icons8.com/color/48/000000/dot-net.png"/>
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/blazor-app.png"/>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -48,6 +49,7 @@
     <img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
     <img src="https://img.icons8.com/color/48/000000/docker.png"/>
 </div>
+
 
 
 
