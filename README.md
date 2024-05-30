@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdulwaisa+Al+Nuaimi!;" />
 </h1>
 
-<h3 align="center">A passionate full-stack .NET developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate full-stack .NET developer from Yemen</h3>
 
 <br/>
 
@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:alnymybdalwas1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
@@ -37,9 +37,18 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,dotnetcore,csharp,aspdotnet,visualstudio,microsoftsqlserver,azure,docker,vscode,cplusplus" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,blazor,git,devops" />
+    <img src="https://img.icons8.com/color/48/000000/dot-net.png"/>
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+    <img src="https://img.icons8.com/color/48/000000/blazor.png"/>
+    <img src="https://img.icons8.com/color/48/000000/github.png"/>
+    <img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/docker.png"/>
 </div>
+
 
 <br/>
 <hr/>
@@ -60,7 +69,7 @@
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
 </div>
 
 <br/><br/>
