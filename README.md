@@ -37,7 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,dotnetcore,csharp,aspdotnet,visualstudio,microsoftsqlserver,azure,docker,vscode,jetbrainsrider" />
+    <img src="https://skillicons.dev/icons?i=dotnet,dotnetcore,csharp,aspdotnet,visualstudio,microsoftsqlserver,azure,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,blazor" />
 </div>
 
 <br/>
@@ -73,3 +74,5 @@
 </div>
 
 <br/>
+
+<a href="https://app.daily.dev/alnuaimi"><img src="https://api.daily.dev/devcards/v2/yBcAKveFvNga7Qp0rmePx.png?type=default&r=ql1" width="356" alt="Abdulwasia Alnuaimi's Dev Card"/></a>
