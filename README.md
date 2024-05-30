@@ -48,7 +48,12 @@
     <img src="https://img.icons8.com/color/48/000000/github.png"/>
     <img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
     <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
+    <img src="https://img.icons8.com/color/48/000000/asp.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 </div>
+
 
 
 
