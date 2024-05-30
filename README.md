@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdulwaisa+Al+Nuaimi!;" />
 </h1>
 
-<h3 align="center">A passionate full-stack .NET developer from Yemen</h3>
+<h3 align="center">A passionate full-stack .NET developer from Yemen 🇾🇪</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **building a robust marketplace using .NET technologies**
+ 🔭 I’m currently working on building a robust marketplace using .NET technologies
  
- 🌱 I’m currently learning **advanced .NET concepts, Docker, and Azure cloud services**
+ 🌱 I’m currently learning advanced .NET concepts, Docker, and Azure cloud services
 
-💬 Ask me about **ASP.NET Core, Entity Framework, Blazor, or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about ASP.NET Core, Entity Framework, Blazor, or anything [here](https://github.com/salesp07/salesp07/issues)
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact: Game of Thrones Night's Watch cloaks are made from Ikea rugs
 
  </div>
  
@@ -51,15 +51,10 @@
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
     <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
     <img src="https://img.icons8.com/color/48/000000/asp.png"/>
-        <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </div>
-
-
-
-
-
 
 <br/>
 <hr/>
