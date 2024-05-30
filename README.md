@@ -36,7 +36,7 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+
 <div align="center">
     <img src="https://img.icons8.com/color/48/000000/dot-net.png"/>
     <img src="https://img.icons8.com/fluency/48/000000/blazor-app.png"/>
