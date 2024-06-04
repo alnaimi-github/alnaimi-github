@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning advanced .NET concepts, Docker, and Azure cloud services
 
-💬 Ask me about ASP.NET Core, Entity Framework, Blazor, or anything [here](https://github.com/salesp07/salesp07/issues)
+💬 Ask me about ASP.NET Core, Entity Framework, Blazor, or anything [here](#)
 
 ⚡ Fun fact: Game of Thrones Night's Watch cloaks are made from Ikea rugs
 
