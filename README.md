@@ -38,21 +38,17 @@
 <br/>
 
 <div align="center">
-    <img src="https://img.icons8.com/color/48/000000/dot-net.png"/>
-    <img src="https://img.icons8.com/fluency/48/000000/blazor-app.png"/>
+    <img src="https://camo.githubusercontent.com/d1c060eef161748ffe94ee1004fb9987437bc68fa40563857493d2a725238c68/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f746e6574636f72652f646f746e6574636f72652d6f726967696e616c2e737667" style="width:5%;height:5%"/>
+    <img  style="width:5%;height:5%" src="https://camo.githubusercontent.com/2d9be2cdbe847aa58cefeb401833777b9330a5d91389066137fc1c84589eabfe/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667"/>
+        <img  style="width:5%;height:5%" src="https://camo.githubusercontent.com/649c79ee7a63c501daf05a190f4ac557d1e75988a808482691c5c6c5a3064b0c/68747470733a2f2f63646e2e63646e6c6f676f2e636f6d2f6c6f676f732f6d2f32312f6d6963726f736f66742d73716c2d7365727665722e737667"/>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-    <img src="https://img.icons8.com/color/48/000000/blazor.png"/>
-    <img src="https://img.icons8.com/color/48/000000/github.png"/>
-    <img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
+    <img src="https://camo.githubusercontent.com/7010699f8506fb41b54dd0af1a7ce52292834158a4813d611e6fd0ba5d827323/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f617a7572652f617a7572652d6f726967696e616c2e737667"  style="width:5%;height:5%"/>
     <img src="https://img.icons8.com/color/48/000000/docker.png"/>
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-    <img src="https://img.icons8.com/color/48/000000/asp.png"/>
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+    <img src="https://camo.githubusercontent.com/b757f08684d4442218bd04f3bb04cc0e142d0551619c678ff44304027085bb47/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d6f726967696e616c2e737667" style="width:5%;height:5%" />
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </div>
 
