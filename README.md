@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning advanced .NET concepts, Docker, and Azure cloud services
 
-💬 Ask me about ASP.NET Core, Entity Framework, Blazor, or anything [here](#)
+💬 Ask me about ASP.NET Core, Entity Framework Core, Blazor, or anything [here](#)
 
 ⚡ Fun fact: Game of Thrones Night's Watch cloaks are made from Ikea rugs
 
@@ -30,6 +30,7 @@
   <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
+    
 </div>
 
  <hr/>
@@ -50,10 +51,20 @@
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
     <img src="https://camo.githubusercontent.com/b757f08684d4442218bd04f3bb04cc0e142d0551619c678ff44304027085bb47/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d6f726967696e616c2e737667" style="width:5%;height:5%" />
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    <div>
+
+  <div style="margin-top:5%; margin-bottom:5%;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnaimi-github&layout=compact&hide=html&theme=dark" alt="alnuaimi" />
+
+<div/>
+<div/>
+<br />
 </div>
 
 <br/>
 <hr/>
+
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -81,6 +92,7 @@
 <hr/>
 
 <br/>
+
 
 <div align="center">
 <a href='#' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
