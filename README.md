@@ -65,7 +65,8 @@
 
 <br/>
 
-### 🧑‍💻 Most Used Languages
+
+<h2 align="center">🧑‍💻 Most Used Languages</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnaimi-github&layout=compact&hide=html&theme=radical" />
@@ -73,7 +74,7 @@
 
 <hr/>
 
-### 🐍 My Contributions
+<h2 align="center">🐍 My Contributions</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Snake Eating My Contributions"/>
