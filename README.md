@@ -20,8 +20,14 @@
 </div>
 
 <br/>
-
+<div align="center"><h3 align="center">Visit    👇 me more</h3></div>
+<div align="center">
+  <a href="https://alnuaimidev.me/MyPortfolio/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/internet.png" alt="Portfolio" />
+  </a>
+</div>
 <div align="center"> 
+    
   <a href="mailto:alnymybdalwas1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
