@@ -80,14 +80,6 @@
 
 <hr/>
 
-<h2 align="center">🐍 My Contributions</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Snake Eating My Contributions"/>
-</div>
-
-<hr/>
-
 <h2 align="center">⚡ GitHub Streak Stats ⚡</h2>
 <br/>
 <div align="center">
