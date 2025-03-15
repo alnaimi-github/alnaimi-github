@@ -16,7 +16,7 @@
   <br/>
   💬 Ask me about <strong>ASP.NET Core</strong>, <strong>Entity Framework Core</strong>, <strong>Blazor</strong>, or anything <a href="mailto:alnymybdalwas1@gmail.com">here</a>
   <br/>
-  ⚡ Fun fact: <strong>Game of Thrones</strong> Night's Watch cloaks are made from <strong>Ikea rugs</strong>
+  ⚡ Fun fact: <strong>Reading</strong>
 </div>
 
 <br/>
